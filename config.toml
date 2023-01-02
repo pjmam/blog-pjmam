@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pjmam.github.io/blog-pjmam"
 defaultContentLanguage = "en"
 languageCode = "en"
 enableEmoji = true
@@ -99,3 +99,5 @@ pygmentsStyle = "monokai"
     startLevel = 1
     endLevel = 4
     ordered = false
+
+publishDir = "docs"
